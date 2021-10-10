@@ -1,8 +1,10 @@
-package datasizerange;
+Package datasizerange;
 
-public class DataSizeRange {
+Public Class DataSizeRange 
+{
 
-    public static void main(String[] args) {
+    Public Static void main(String[] args) ;
+    {
         
         /*System.out.println("Int Min: "+Integer.MIN_VALUE);
         System.out.println("Int Max: "+Integer.MAX_VALUE);
